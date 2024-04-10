@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b58255b5af4e8dc4ea0227797301455a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bungee Spice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e725820eeafaec743bb85b2f0287d5a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
